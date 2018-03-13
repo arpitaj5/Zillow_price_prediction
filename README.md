@@ -7,3 +7,14 @@ The datasets used for modeling can be found [here](https://github.com/arpitaj5/Z
 You can find the code [here](https://github.com/arpitaj5/Zillow_price_prediction/blob/master/Prediction.Rmd) and for details on all the methodologies please refer the [business report](https://github.com/arpitaj5/Zillow_price_prediction/blob/master/Report.pdf).
 
 Below I present a few EDAs done on the data set.  
+*Relationship between building type, house style and number of sales*  
+
+![Screenshot](https://github.com/arpitaj5/Zillow_price_prediction/blob/master/img/img1.png)
+
+*Relationship between building type and house style*  
+
+![Screenshot](https://github.com/arpitaj5/Zillow_price_prediction/blob/master/img/img2.png)
+
+*Relationship between year sold, sell type and number of sales*  
+
+![Screenshot](https://github.com/arpitaj5/Zillow_price_prediction/blob/master/img/img3.png)
